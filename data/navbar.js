@@ -32,6 +32,10 @@ const NavbarData = [
     link: '/sponsors',
   },
   {
+    name: 'Publications',
+    link: '/publications',
+  },
+  {
     name: 'Contact us',
     link: '/contactus',
   },
